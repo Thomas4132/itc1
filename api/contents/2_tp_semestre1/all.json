@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2021-11-13T15:49:31.837097Z",
+      "created": "2021-11-13T16:14:34.931886Z",
       "format": null,
-      "last_modified": "2021-11-13T15:49:11.705117Z",
+      "last_modified": "2021-11-13T16:14:13.303714Z",
+      "mimetype": null,
+      "name": "2_boucles_imbriquees.ipynb",
+      "path": "2_tp_semestre1/2_boucles_imbriquees.ipynb",
+      "size": 4822,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2021-11-13T16:14:34.931886Z",
+      "format": null,
+      "last_modified": "2021-11-13T16:14:13.303714Z",
       "mimetype": null,
       "name": "1_dictionnaire.ipynb",
       "path": "2_tp_semestre1/1_dictionnaire.ipynb",
@@ -13,9 +25,9 @@
       "writable": true
     }
   ],
-  "created": "2021-11-13T15:49:31.837097Z",
+  "created": "2021-11-13T16:14:34.931886Z",
   "format": "json",
-  "last_modified": "2021-11-13T15:49:31.837097Z",
+  "last_modified": "2021-11-13T16:14:34.931886Z",
   "mimetype": null,
   "name": "2_tp_semestre1",
   "path": "2_tp_semestre1",
