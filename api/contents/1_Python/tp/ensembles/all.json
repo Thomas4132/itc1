@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-11-13T11:37:43.724762Z",
+      "created": "2021-11-13T12:25:05.343167Z",
       "format": null,
-      "last_modified": "2021-11-13T11:37:22.727526Z",
+      "last_modified": "2021-11-13T12:24:48.402924Z",
       "mimetype": "application/pdf",
       "name": "TP_ensembles.pdf",
       "path": "1_Python/tp/ensembles/TP_ensembles.pdf",
@@ -13,9 +13,9 @@
       "writable": true
     }
   ],
-  "created": "2021-11-13T11:37:43.724762Z",
+  "created": "2021-11-13T12:25:05.343167Z",
   "format": "json",
-  "last_modified": "2021-11-13T11:37:43.724762Z",
+  "last_modified": "2021-11-13T12:25:05.343167Z",
   "mimetype": null,
   "name": "ensembles",
   "path": "1_Python/tp/ensembles",
