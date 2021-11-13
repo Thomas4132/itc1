@@ -2,9 +2,9 @@
   "content": [
     {
       "content": null,
-      "created": "2021-11-12T19:35:37.083138Z",
+      "created": "2021-11-13T11:07:17.002962Z",
       "format": null,
-      "last_modified": "2021-11-12T19:35:37.083138Z",
+      "last_modified": "2021-11-13T11:07:17.002962Z",
       "mimetype": null,
       "name": "1_Python",
       "path": "1_Python",
@@ -14,21 +14,21 @@
     },
     {
       "content": null,
-      "created": "2021-11-12T19:35:37.095138Z",
+      "created": "2021-11-13T11:07:17.014962Z",
       "format": null,
-      "last_modified": "2021-11-12T19:35:17.990999Z",
+      "last_modified": "2021-11-13T11:06:55.618548Z",
       "mimetype": null,
       "name": "2_recherche.ipynb",
       "path": "2_recherche.ipynb",
-      "size": 7323,
+      "size": 9127,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2021-11-12T19:35:37.063138Z",
+      "created": "2021-11-13T11:07:16.986962Z",
       "format": null,
-      "last_modified": "2021-11-12T19:35:37.063138Z",
+      "last_modified": "2021-11-13T11:07:16.986962Z",
       "mimetype": null,
       "name": "0_intro",
       "path": "0_intro",
@@ -37,9 +37,9 @@
       "writable": true
     }
   ],
-  "created": "2021-11-12T19:35:37.095138Z",
+  "created": "2021-11-13T11:07:17.014962Z",
   "format": "json",
-  "last_modified": "2021-11-12T19:35:37.095138Z",
+  "last_modified": "2021-11-13T11:07:17.014962Z",
   "mimetype": null,
   "name": "",
   "path": "",
